@@ -54,7 +54,7 @@ const ProductList = () => {
           ))}
         </div>
 
-        {/* Cart Section */}
+        {/* Cart Section== */}
         <div className="lg:fixed lg:top-[220px] lg:right-[40px] xl:right-[80px] w-full lg:w-[300px] h-auto lg:h-[320px] p-6 lg:p-8 rounded-lg bg-gray-50 flex flex-col items-center justify-center shadow-md">
           <img
             src="images/sad.PNG"
